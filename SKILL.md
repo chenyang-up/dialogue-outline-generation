@@ -6,7 +6,7 @@ description_zh: >-
   将当前对话按语义相关性整理为可归档的 Markdown 产物：切分为若干主题，分层落盘为问答流水与净结论，并可生成唯一一份交接文档供其他 agent 接续工作。当用户说「整理对话」「整理思路」「生成交接文档」时使用。
 description_en: >-
   Archives the current conversation into Markdown by splitting it into semantic topics and persisting a layered raw log and conclusions, plus an optional single handoff document for another agent to continue the work. Trigger on "organize the conversation", "organize my thoughts", "generate a handoff document".
-version: 1.0.0
+version: 2.0.0
 description: >-
   整理对话思路：将当前会话按语义相关性切分为若干主题并归档为 Markdown 文档，并可生成交接文档供其他 agent 接续工作。当用户输入「整理对话」「整理思路」「生成交接文档」等指令，或请求将对话保存为结构化文档时触发。
 agent_created: true
