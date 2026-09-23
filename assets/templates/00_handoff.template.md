@@ -2,6 +2,7 @@
 
 **对话**：<对话标题>
 **归档批次**：<YYYYMMDD-HHMMSS>
+**技能版本**：<本技能 frontmatter 的 version>
 **供**：下一个 agent 接续本工作
 
 ## 目标
